@@ -1,1 +1,23 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>javaScriptIntoduction</title>
+</head>
+<body>
+    <script src="./javaintro.js"></script>
+</body>
+</html>
 
+//my javaScript code/
+
+var myName = "Lydia Itodo.";
+var height ="158 meters";
+var country="Nigerian.";
+document.write("I am"+" "+ myName);
+
+document.write("<br>I am"+" "+height+" "+"tall.");
+
+document.write("<br>I am a" +" "+ country)
